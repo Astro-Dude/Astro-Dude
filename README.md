@@ -58,9 +58,6 @@
 
 ###
 
-![snake_gif](https://github.com/Astro-Dude/Astro-Dude/blob/output/github-snake-dark.svg)
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Astro-Dude/count.svg?"  />
 </div>
