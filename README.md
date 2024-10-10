@@ -58,7 +58,7 @@
 
 ###
 
-![snake gif](https://github.com/Astro-Dude/Astro-Dude/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Astro-Dude/Astro-Dude/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
