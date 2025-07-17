@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shaurya Verma and I'm a student at Scaler School of Technology.</h2>
+<h2 align="left">Shaurya Verma aka AstroDude</h2>
 
 ###
 
