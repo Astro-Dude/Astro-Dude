@@ -1,4 +1,4 @@
-<h2 align="left">Shaurya Verma aka AstroDude</h2>
+<h2 align="center">Shaurya Verma aka AstroDude</h2>
 
 ###
 
