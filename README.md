@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Astro-Dude/count.svg?"  />
-</div>
 
 ###
 
