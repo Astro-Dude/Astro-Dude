@@ -1,73 +1,83 @@
-<h2 align="center">Shaurya Verma aka AstroDude</h2>
+<table>
+<tr>
+<td align="center" width="40%">
 
-###
+<img width="300" src="./binary_me.png" alt="Shaurya Verma, rendered in binary"/>
 
+</td>
+<td width="60%" valign="middle">
 
-###
+# Shaurya Verma
 
-<br clear="both">
+### Member of Technical Staff @ Scaler AI Labs
+
+I build **repository-scale reinforcement-learning environments** for autonomous coding agents — curating real-world engineering tasks, authoring ground-truth patches, and writing the adversarial harnesses that keep agents honest.
+
+- Bachelors in Computer Science, **Birla Institute of Technology** *(2024 – 2028)*
+
+<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" height="34"/></a>
+&nbsp;
+<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" height="34"/></a>
+
+</td>
+</tr>
+</table>
+
+## Origin Story
+
+*"Sometimes you gotta run before you can walk."* — and that's pretty much how every good thing I've built began. No blueprint, no idea how it'd end, just a suit half-assembled in the cave and the stubbornness to figure out the rest mid-flight. Curiosity is my radioactive spider-bite: it's why I build, why I keep asking questions, and why I keep falling down rabbit holes that have nothing to do with each other.
+
+These days I'm a **Member of Technical Staff at Scaler AI Labs**, engineering repository-scale reinforcement learning environments for autonomous coding agents — curating real-world engineering tasks, authoring ground-truth patches, and building the adversarial harnesses that keep agents honest (no reward-hacking on my watch). Before earning the title, I was a founding SDE intern there, rebuilding entire SaaS worlds as training grounds for frontier models.
+
+By day I'm also a Bachelors in Computer Science student at **Birla Institute of Technology (2024–2028)** — the academy arc before the Avengers arc.
+
+When the suit comes off, it's Marvel marathons, astronomy till 3 AM, and Dostoevsky novels. Talk to me and we'll end up on software, Spider-Man, black holes, or why Dostoevsky read people better than S.H.I.E.L.D. ever could.
+
+## The Suit-Ups
+
+Every hero's got a workshop. Here's what came out of mine.
+
+**VibeExtract** — the Mark III of my toolbox. A Chrome extension now suited up by **150+ engineers at Scaler AI Labs**, cutting frontend component extraction time by up to **10x**. It clones live DOM (Shadow DOM and iframes included) into pixel-perfect, standalone components and exports to a custom LLM-friendly format and self-contained HTML. `JavaScript`
+
+**Waves** — comms that don't drop when the network does. An anonymous real-time chat built on a hybrid P2P + WebSocket architecture so it holds the line through bad signal, with CI/CD automated end to end via Render, webhooks, and CRON. `MERN` `Socket.IO` `WebRTC`
+
+**Vector** — the one I founded and flew solo. A full-stack ed-tech platform shipped to **400+ students**, with computer-based assessments and an AI-powered mock interview system running on vector memory in Supabase. `MERN + TS` `Supabase`
+
+## The Infinity Stones
+
+Every gauntlet needs its stones. Here are the ones I've collected so far.
+
+| Stone | Conquest |
+|:--|:--|
+| 🟣 **Power** | Top 100 at Meta Hackathon 2026 |
+| 🟡 **Mind** | 3-star at CodeChef *(max rating 1649)* |
+| 🔵 **Space** | Finalist at Shaastra Programming Contest, IIT Madras |
+
+Three down. The gauntlet's not full yet.
+
+## The Endgame Grind
+
+I do most of my building on my work account, **[`shauryaverma-scaler`](https://github.com/shauryaverma-scaler)** — that's where the day-to-day engineering happens. Personal experiments run on **[`Astro-Dude`](https://github.com/Astro-Dude)**.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astro-Dude&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Dude&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Astro-Dude&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
-###
+<img width="90%" src="https://ghchart.rshah.org/E4002B/shauryaverma-scaler" alt="contribution calendar"/>
+
+<!--
+  COMMIT STATS + STREAK (rate-limit-proof): the live third-party cards for these
+  fail randomly (GitHub rate-limits their shared servers). The reliable fix is
+  metrics.svg — a GitHub Action commits it on a schedule with commit/star/PR stats,
+  current streak, calendar and languages (private commits included), served straight
+  from the repo with no live fetch. Setup is in .github/workflows/metrics.yml.
+  After the first run, uncomment the line below (and you can drop the ghchart img):
+
+  <img width="90%" src="./metrics.svg" alt="GitHub metrics — stats, streak, calendar & languages"/>
+-->
+
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/astro-dude" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:astrodude.shaurya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCKZltwk88Z4P57oEcHQUQmA?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/_astro.dude/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+
+*"Part of the journey is the end."* — but I'm nowhere near the credits yet.
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV2bTdnOWZ4Z21wMXYyZWZneHQ4MTgwYXM1dHlpend5b2wwbWpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/output/snake.svg" alt="Snake animation" />
-
-###
