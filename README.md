@@ -3,20 +3,15 @@
   <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/header-light.svg" width="100%" alt="Shaurya Verma. Founding MTS Intern at Arcfront, Bengaluru. I build the worlds AI agents learn in." />
 </picture>
 
-[Portfolio](https://shauryaverma.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/astro-dude) &nbsp;·&nbsp; [Email](mailto:sagittariusshaurya5@gmail.com)
+<p align="center">
+  <a href="https://shauryaverma.vercel.app/">Portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/astro-dude">LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:sagittariusshaurya5@gmail.com">Email</a>
+</p>
+
+<br/>
 
 My work is reinforcement-learning environments: worlds where a model has to do real work across real-feeling apps, scored by graders sharp enough that it can't fake its way to a reward.
 
 Off the clock it's astronomy, usually past 3 am, and Dostoevsky, who understood people better than any eval I've written.
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/stats-light.svg" width="100%" alt="3 Multi-RL worlds a day, from one every week and a half. 600+ DOM Heist installs. 200+ developers at Arcfront use it. 400+ students on Vector." />
-</picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/now-dark.svg" />
@@ -26,7 +21,7 @@ Off the clock it's astronomy, usually past 3 am, and Dostoevsky, who understood 
 I'm a founding MTS intern at **Arcfront**, where I lead the **Multi-RL** vertical.
 
 - **Multi-RL.** Worlds where an agent works across many connected apps at once, the way a person does at an actual job. I lead the vertical and build the internal platform the team uses to create, validate and ship them.
-- **The automation.** One environment used to take one engineer a week and a half. I automated the pipeline, and now three ship in a day.
+- **The automation.** One environment used to take one engineer a week and a half. I automated the pipeline, and now **three ship in a day**.
 - **Before that.** Repository-scale coding environments built from real engineering tasks, with ground-truth patches and adversarial rubrics that catch reward hacking, plus high-fidelity replicas of real-world apps for training LLMs and VLMs.
 
 <picture>
