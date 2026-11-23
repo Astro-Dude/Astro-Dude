@@ -23,8 +23,7 @@ jobs:
       - name: Fetch contributions
         working-directory: scripts
         env:
-          # WORK_ACCOUNT is a repository secret, so that account's name stays out of the repo
-          CONTRIB_USERS: "Astro-Dude,${{ secrets.WORK_ACCOUNT }}"
+          CONTRIB_USERS: "Astro-Dude,shaurya-arcfront"   # personal + work account, merged day by day
         run: python fetch_contributions.py
       - name: Render heatmap
         working-directory: scripts

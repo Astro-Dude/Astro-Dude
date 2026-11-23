@@ -3,6 +3,8 @@
 <h3><code>shaurya@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
 
+<sub>merged from this account and my work account, <a href="https://github.com/shaurya-arcfront"><b>@shaurya-arcfront</b></a>, where most of my day-to-day commits land</sub>
+
 <br><br>
 
 <h3><code>shaurya@github ~ $ whoami</code></h3>
@@ -29,6 +31,6 @@
 
 <h3><code>shaurya@github ~ $ cat contact.txt</code></h3>
 
-[portfolio](https://shauryaverma.vercel.app/) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/astro-dude) &nbsp;·&nbsp; [email](mailto:sagittariusshaurya5@gmail.com)
+[portfolio](https://shauryaverma.vercel.app/) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/astro-dude) &nbsp;·&nbsp; [email](mailto:sagittariusshaurya5@gmail.com) &nbsp;·&nbsp; [work github: @shaurya-arcfront](https://github.com/shaurya-arcfront)
 
 </div>
