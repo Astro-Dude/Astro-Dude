@@ -1,91 +1,73 @@
-<img align="right" width="200" src="./binary_me.png" alt="Shaurya Verma, rendered in binary" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,50:3a506b,100:5bc0be&height=160&section=header&text=shaurya%20verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=rl%20environments%20%C2%B7%20ai%20agents%20%C2%B7%20worlds%20for%20machines%20to%20learn%20in&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-# Shaurya Verma
+<div align="center">
 
-**Founding MTS Intern at Arcfront** · CS at Birla Institute of Technology · Bengaluru
+founding mts intern @ arcfront · cs @ birla institute of technology · bengaluru
 
-I build reinforcement-learning environments for frontier models: worlds of connected apps where an agent has to work the way a real person would, scored by graders it can't game.
+<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/linkedin-1c2541?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://shauryaverma.vercel.app/"><img src="https://img.shields.io/badge/portfolio-3a506b?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>&nbsp;
+<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/email-5bc0be?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
-Off the keyboard: astronomy till 3 AM, Dostoevsky, and Marvel.
+</div>
 
-<a href="https://shauryaverma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+i build the worlds ai agents learn in. reinforcement-learning environments where a model has to do real work across real-feeling apps, and graders sharp enough that it can't fake its way to a reward.
 
-<br clear="right" />
+off the clock it's astronomy, usually past 3 am. it's the same job, really: stare at something enormous and indifferent until it explains itself. also dostoevsky, who understood people better than any eval i've written. and marvel, unironically.
 
-## Now
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,100:5bc0be&height=2" width="100%" alt="" />
 
-- Leading the **Multi-RL vertical** at Arcfront: multi-app RL worlds where agents work across several connected apps, and the **internal platform** the team uses to create, validate and ship them.
-- Built the automation behind it. One Multi-RL environment used to take one engineer **1.5 weeks**; now **three ship in a day**.
-- Before that, **repository-scale RL environments** for coding agents (real engineering tasks, ground-truth patches, adversarial rubrics that stop reward hacking) and **high-fidelity replicas of real-world apps** for training LLMs and VLMs.
+### ✦ mission control
 
-## Selected work
+founding mts intern at **arcfront**, where i lead the **multi-rl vertical**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **multi-rl** · worlds where an agent works across many connected apps at once, the way a person does at an actual job. i lead the vertical and build the internal platform the team uses to create, validate and ship them.
+- **the automation** · one environment used to take one engineer a week and a half. i automated the pipeline. now **three ship in a day**.
+- **before that** · repository-scale coding environments built from real engineering tasks, with ground-truth patches and adversarial rubrics that catch reward hacking. plus high-fidelity replicas of real-world apps for training llms and vlms.
 
-### [BYOS](https://github.com/Astro-Dude/BYOS)
-**Bring Your Own Storage** · [live](https://byos-web.onrender.com/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,100:5bc0be&height=2" width="100%" alt="" />
 
-A cloud drive whose file bytes live in your own Telegram account, with only metadata on the server. Folders, versioning, search, sharing and analytics sit on a pluggable storage layer. Public links are permanent, and the file behind one can be swapped anytime. It also has a BYOK AI agent with four permission tiers.
+### ✦ launches
 
-<sub>Next.js · FastAPI · PostgreSQL</sub>
+**BYOS** · bring your own storage. a cloud drive with no storage bill: the bytes live in your own telegram account and byos keeps only the metadata, with folders, versioning, search, sharing and analytics on top of a pluggable storage layer. the favourite part: every file points at its current version, so replace and rollback are atomic, and a public link stays permanent even after the file behind it changes. telegram is the login too, with encrypted stateless tickets and rotating refresh tokens. and a bring-your-own-key ai agent with four permission tiers, searching across full-text, trigram and semantic indexes.
+<br/><sub>`typescript` · `next.js` · `fastapi` · `postgresql` &nbsp;·&nbsp; [live](https://byos-web.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/BYOS)</sub>
 
-</td>
-<td width="50%" valign="top">
+**DOM Heist** · point at any element on any website, click, and walk away with it. you get a standalone html file that renders identically offline, plus a compact spec to hand an llm with "rebuild this in react + tailwind". shadow dom, iframes and hover states included. no build step, no npm: the zip writer and serializers are hand-rolled. **600+ installs**, and **200+ developers at arcfront** use it.
+<br/><sub>`javascript` · `manifest v3` &nbsp;·&nbsp; [chrome web store](https://chromewebstore.google.com/detail/ejljibcfeobhaehaldildmmgdokmbchc) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/VibeExtract)</sub>
 
-### [DOM Heist](https://chromewebstore.google.com/detail/ejljibcfeobhaehaldildmmgdokmbchc)
-**Chrome extension** · **600+ installs**
+**Citadel** · security incident response run by two llm agents keeping each other honest. a commander proposes actions, an oversight agent approves, revises or vetoes, and writes a lesson both of them read in every future episode. both trained with grpo on qwen2.5-3b. grew out of **bastion**, a single agent fighting a live cyberattack with half the picture. placed **top 100** at the meta pytorch openenv hackathon, built with [@dobbydobap](https://github.com/dobbydobap).
+<br/><sub>`python` · `pytorch` · `grpo` · `docker` &nbsp;·&nbsp; [demo](https://huggingface.co/spaces/Astro-Dude/citadel) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/citadel)</sub>
 
-Click any element on any site and get a pixel-perfect standalone HTML component, plus a compact spec an LLM can rebuild in React and Tailwind. Handles Shadow DOM, iframes and hover states. Used by **200+ developers at Arcfront**, and cuts component extraction time by up to 10x.
+**MiniDB** · a relational database engine from scratch. pages and a buffer pool, a b+ tree index, a sql parser, volcano-style execution, a cost-based optimizer, strict two-phase locking with deadlock detection, write-ahead logging with crash recovery, and an lsm-tree storage engine on top. team capstone, every layer hand-built.
+<br/><sub>`c++17` &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/MiniDB)</sub>
 
-<sub>JavaScript · Manifest V3</sub>
+**StayDesk** · a hotel front-desk app where the real product is the road to production. github actions, trivy scans, images on ghcr, terraform-provisioned eks, helm releases, pods that autoscale on cpu, and prometheus with grafana keeping watch.
+<br/><sub>`react` · `fastapi` · `postgresql` · `terraform` · `kubernetes` · `aws` &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/staydesk)</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Vector** · the one i founded. an ed-tech platform shipped to **400+ students**, with computer-based tests and ai mock interviews that use vector memory to give contextual feedback.
+<br/><sub>`mern` · `typescript` · `supabase` &nbsp;·&nbsp; [live](https://vector-ewgs.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/vector/tree/Vector2.0)</sub>
 
-### [Citadel](https://github.com/Astro-Dude/citadel) & [Bastion](https://github.com/Astro-Dude/bastion)
-**OpenEnv RL environments**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,100:5bc0be&height=2" width="100%" alt="" />
 
-Bastion puts an agent in charge of a live cyberattack on a corporate network, where it sees only part of the picture and its mistakes compound. Citadel builds on it with a multi-agent LLM council that governs, critiques and earns trust.
+### ✦ flight record
 
-<sub>Python · OpenEnv · Hugging Face Spaces</sub>
+**top 100** · meta pytorch openenv hackathon &nbsp;&nbsp;|&nbsp;&nbsp; **3★** · codechef, max rating 1649 &nbsp;&nbsp;|&nbsp;&nbsp; **finalist** · shaastra programming contest, iit madras
 
-</td>
-<td width="50%" valign="top">
+### ✦ payload
 
-### [Vector](https://github.com/Astro-Dude/vector/tree/Vector2.0)
-**Founder** · [live](https://vector-ewgs.onrender.com/)
+`python` `typescript` `javascript` `go` `java` `c++` `sql` `react` `next.js` `node.js` `express` `fastapi` `socket.io` `webrtc` `postgresql` `mysql` `mongodb` `redis` `supabase` `pytorch` `docker` `kubernetes` `terraform` `aws` `linux`
 
-An ed-tech platform shipped to **400+ students**, with computer-based tests and an AI mock interview system that uses vector memory for contextual feedback.
+<div align="center">
+<pre>
+        *        .
+   .        _____      *
+         ,-'     '-.
+  ~~~~~~(     o     )~~~~~~
+         '-._____.-'
+    *          .        .
+</pre>
 
-<sub>MERN · TypeScript · Supabase</sub>
+*if your agent found a way to cheat, i want to hear about it.*
 
-</td>
-</tr>
-</table>
+</div>
 
-**Also built:** [MiniDB](https://github.com/Astro-Dude/MiniDB), a C++ relational database engine with a B+ tree, WAL recovery and an LSM-tree store · [StayDesk](https://github.com/Astro-Dude/staydesk), a hotel app shipped through Terraform, EKS, Helm and Grafana · [LatePass](https://github.com/Astro-Dude/LatePass), a one-tap PWA that sends a late-arrival email from your own Gmail · [Waves](https://github.com/Astro-Dude/Waves), an anonymous chat on hybrid P2P and WebSockets
-
-## Toolbox
-
-<img src="https://skillicons.dev/icons?i=py,cpp,java,ts,go,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,supabase,docker,kubernetes,terraform,aws,linux&perline=9" alt="Python, C++, Java, TypeScript, Go, React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, Supabase, Docker, Kubernetes, Terraform, AWS, Linux" />
-
-## Recognition
-
-- **Top 100**, Meta Hackathon 2026
-- **3-star** on CodeChef, max rating 1649
-- **Finalist**, Shaastra Programming Contest, IIT Madras
-
-## Activity
-
-Most of my day-to-day commits land in private work repos, so this shows only part of it.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/output/snake.svg" alt="Contribution graph being eaten by a snake" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,50:3a506b,100:5bc0be&height=100&section=footer" width="100%" alt="footer" />
