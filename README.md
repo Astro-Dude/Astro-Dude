@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,50:3a506b,100:5bc0be&height=160&section=header&text=shaurya%20verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=rl%20environments%20%C2%B7%20ai%20agents%20%C2%B7%20worlds%20for%20machines%20to%20learn%20in&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,50:3a506b,100:5bc0be&height=160&section=header&text=Shaurya%20Verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=rl%20environments%20%C2%B7%20ai%20agents%20%C2%B7%20worlds%20for%20machines%20to%20learn%20in&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
