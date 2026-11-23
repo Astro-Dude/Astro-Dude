@@ -1,50 +1,71 @@
-<img src="./assets/header.svg" width="100%" alt="Shaurya Verma. Founding MTS Intern at Arcfront. I build the worlds AI agents learn in." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/header-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/header-light.svg" width="100%" alt="Shaurya Verma. Founding MTS Intern at Arcfront, Bengaluru. I build the worlds AI agents learn in." />
+</picture>
 
-<div align="center">
+[Portfolio](https://shauryaverma.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/astro-dude) &nbsp;·&nbsp; [Email](mailto:sagittariusshaurya5@gmail.com)
 
-<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/linkedin-1f5130?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
-<a href="https://shauryaverma.vercel.app/"><img src="https://img.shields.io/badge/portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>&nbsp;
-<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/email-8a6d1f?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+My work is reinforcement-learning environments: worlds where a model has to do real work across real-feeling apps, scored by graders sharp enough that it can't fake its way to a reward.
 
-</div>
-
-<img src="./assets/stats.svg" width="100%" alt="Multi-RL worlds: 3 a day, down from 1 per 1.5 weeks. DOM Heist: 600+ installs, 200+ developers at Arcfront. Vector: 400+ students." />
-
-<img src="./assets/sec-decree.svg" width="100%" alt="I. The Decree" />
-
-i build the worlds ai agents learn in. reinforcement-learning environments where a model has to do real work across real-feeling apps, and graders sharp enough that it can't fake its way to a reward.
-
-off the clock it's astronomy, usually past 3 am. it's the same job, really: stare at something enormous and indifferent until it explains itself. also dostoevsky, who understood people better than any eval i've written. and marvel, which is how this page ended up looking like a doomsday protocol.
-
-<img src="./assets/sec-dominion.svg" width="100%" alt="II. The Dominion" />
-
-founding mts intern at **arcfront**, where i lead the **multi-rl vertical**.
-
-- **multi-rl** · worlds where an agent works across many connected apps at once, the way a person does at an actual job. i lead the vertical and build the internal platform the team uses to create, validate and ship them.
-- **the automation** · one environment used to take one engineer a week and a half. i automated the pipeline. now **three ship in a day**.
-- **before that** · repository-scale coding environments built from real engineering tasks, with ground-truth patches and adversarial rubrics that catch reward hacking. plus high-fidelity replicas of real-world apps for training llms and vlms.
-
-<img src="./assets/sec-armory.svg" width="100%" alt="III. The Armory" />
-
-**BYOS** · bring your own storage. a cloud drive with no storage bill: the bytes live in your own telegram account and byos keeps only the metadata, with folders, versioning, search, sharing and analytics on top of a pluggable storage layer. the favourite part: every file points at its current version, so replace and rollback are atomic, and a public link stays permanent even after the file behind it changes. telegram is the login too, with encrypted stateless tickets and rotating refresh tokens. and a bring-your-own-key ai agent with four permission tiers, searching across full-text, trigram and semantic indexes.
-<br/><sub>`typescript` · `next.js` · `fastapi` · `postgresql` &nbsp;·&nbsp; [live](https://byos-web.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/BYOS)</sub>
-
-**DOM Heist** · point at any element on any website, click, and walk away with it. you get a standalone html file that renders identically offline, plus a compact spec to hand an llm with "rebuild this in react + tailwind". shadow dom, iframes and hover states included. no build step, no npm: the zip writer and serializers are hand-rolled. **600+ installs**, and **200+ developers at arcfront** use it.
-<br/><sub>`javascript` · `manifest v3` &nbsp;·&nbsp; [chrome web store](https://chromewebstore.google.com/detail/ejljibcfeobhaehaldildmmgdokmbchc) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/VibeExtract)</sub>
-
-**Vector** · the one i founded. an ed-tech platform shipped to **400+ students**, with computer-based tests and ai mock interviews that use vector memory to give contextual feedback.
-<br/><sub>`mern` · `typescript` · `supabase` &nbsp;·&nbsp; [live](https://vector-ewgs.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/vector/tree/Vector2.0)</sub>
-
-<img src="./assets/sec-conquests.svg" width="100%" alt="IV. Conquests" />
-
-**top 100** · meta pytorch openenv hackathon &nbsp;&nbsp;|&nbsp;&nbsp; **3★** · codechef, max rating 1649 &nbsp;&nbsp;|&nbsp;&nbsp; **finalist** · shaastra programming contest, iit madras
-
-<img src="./assets/sec-arsenal.svg" width="100%" alt="V. The Arsenal" />
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,react,nextjs,nodejs,express,fastapi,postgres,mysql,mongodb,redis,supabase,pytorch,docker,kubernetes,terraform,aws,linux&perline=11&theme=dark" alt="Python, TypeScript, JavaScript, Go, Java, C++, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Supabase, PyTorch, Docker, Kubernetes, Terraform, AWS, Linux" />
-</div>
+Off the clock it's astronomy, usually past 3 am, and Dostoevsky, who understood people better than any eval I've written.
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Doom is inevitable. Reward hacking is not." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/stats-light.svg" width="100%" alt="3 Multi-RL worlds a day, from one every week and a half. 600+ DOM Heist installs. 200+ developers at Arcfront use it. 400+ students on Vector." />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/now-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/now-light.svg" width="100%" alt="Now" />
+</picture>
+
+I'm a founding MTS intern at **Arcfront**, where I lead the **Multi-RL** vertical.
+
+- **Multi-RL.** Worlds where an agent works across many connected apps at once, the way a person does at an actual job. I lead the vertical and build the internal platform the team uses to create, validate and ship them.
+- **The automation.** One environment used to take one engineer a week and a half. I automated the pipeline, and now three ship in a day.
+- **Before that.** Repository-scale coding environments built from real engineering tasks, with ground-truth patches and adversarial rubrics that catch reward hacking, plus high-fidelity replicas of real-world apps for training LLMs and VLMs.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/work-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/work-light.svg" width="100%" alt="Selected work" />
+</picture>
+
+**BYOS** &nbsp;<sub>Bring Your Own Storage</sub>
+
+A cloud drive with no storage bill. File bytes live in your own Telegram account and BYOS keeps only the metadata, with folders, versioning, search, sharing and analytics on a pluggable storage layer. Every file points at its current version, so replacing and rolling back are atomic, and a public link stays permanent even after the file behind it changes. Telegram is also the login, with stateless encrypted tickets and rotating refresh tokens. A bring-your-own-key AI agent with four permission tiers searches across full-text, trigram and semantic indexes.
+
+<sub>Next.js · FastAPI · PostgreSQL &nbsp;—&nbsp; [Live](https://byos-web.onrender.com/) · [Source](https://github.com/Astro-Dude/BYOS)</sub>
+
+**DOM Heist** &nbsp;<sub>Chrome extension</sub>
+
+Click any element on any website and take it with you: a standalone HTML file that renders identically offline, plus a compact spec an LLM can rebuild in React and Tailwind. It handles Shadow DOM, iframes and hover states, with no build step and hand-rolled serializers. **600+ installs**, and **200+ developers at Arcfront** use it.
+
+<sub>JavaScript · Manifest V3 &nbsp;—&nbsp; [Chrome Web Store](https://chromewebstore.google.com/detail/ejljibcfeobhaehaldildmmgdokmbchc) · [Source](https://github.com/Astro-Dude/VibeExtract)</sub>
+
+**Vector** &nbsp;<sub>Founder</sub>
+
+An ed-tech platform shipped to **400+ students**, with computer-based tests and AI mock interviews that use vector memory to give contextual feedback.
+
+<sub>MERN · TypeScript · Supabase &nbsp;—&nbsp; [Live](https://vector-ewgs.onrender.com/) · [Source](https://github.com/Astro-Dude/vector/tree/Vector2.0)</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/recognition-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/recognition-light.svg" width="100%" alt="Recognition" />
+</picture>
+
+- **Top 100**, Meta PyTorch OpenEnv Hackathon
+- **3★ on CodeChef**, max rating 1649
+- **Finalist**, Shaastra Programming Contest, IIT Madras
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/toolkit-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/toolkit-light.svg" width="100%" alt="Toolkit" />
+</picture>
+
+<sub>**Languages** &nbsp; Python · TypeScript · JavaScript · Go · Java · C++ · SQL</sub><br/>
+<sub>**Frameworks** &nbsp; React · Next.js · Node.js · Express · FastAPI · Socket.IO · WebRTC · PyTorch</sub><br/>
+<sub>**Data & infra** &nbsp; PostgreSQL · MySQL · MongoDB · Redis · Supabase · Docker · Kubernetes · Terraform · AWS · Linux</sub>
