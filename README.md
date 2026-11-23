@@ -1,22 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,50:3a506b,100:5bc0be&height=160&section=header&text=Shaurya%20Verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=rl%20environments%20%C2%B7%20ai%20agents%20%C2%B7%20worlds%20for%20machines%20to%20learn%20in&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="Shaurya Verma. Founding MTS Intern at Arcfront. I build the worlds AI agents learn in." />
 
 <div align="center">
 
-founding mts intern @ arcfront · cs @ birla institute of technology · bengaluru
-
-<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/linkedin-1c2541?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
-<a href="https://shauryaverma.vercel.app/"><img src="https://img.shields.io/badge/portfolio-3a506b?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>&nbsp;
-<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/email-5bc0be?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/linkedin-1f5130?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://shauryaverma.vercel.app/"><img src="https://img.shields.io/badge/portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>&nbsp;
+<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/email-8a6d1f?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
 </div>
 
+<img src="./assets/stats.svg" width="100%" alt="Multi-RL worlds: 3 a day, down from 1 per 1.5 weeks. DOM Heist: 600+ installs, 200+ developers at Arcfront. Vector: 400+ students." />
+
+<img src="./assets/sec-decree.svg" width="100%" alt="I. The Decree" />
+
 i build the worlds ai agents learn in. reinforcement-learning environments where a model has to do real work across real-feeling apps, and graders sharp enough that it can't fake its way to a reward.
 
-off the clock it's astronomy, usually past 3 am. it's the same job, really: stare at something enormous and indifferent until it explains itself. also dostoevsky, who understood people better than any eval i've written. and marvel, unironically.
+off the clock it's astronomy, usually past 3 am. it's the same job, really: stare at something enormous and indifferent until it explains itself. also dostoevsky, who understood people better than any eval i've written. and marvel, which is how this page ended up looking like a doomsday protocol.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,100:5bc0be&height=2" width="100%" alt="" />
-
-### ✦ mission control
+<img src="./assets/sec-dominion.svg" width="100%" alt="II. The Dominion" />
 
 founding mts intern at **arcfront**, where i lead the **multi-rl vertical**.
 
@@ -24,9 +24,7 @@ founding mts intern at **arcfront**, where i lead the **multi-rl vertical**.
 - **the automation** · one environment used to take one engineer a week and a half. i automated the pipeline. now **three ship in a day**.
 - **before that** · repository-scale coding environments built from real engineering tasks, with ground-truth patches and adversarial rubrics that catch reward hacking. plus high-fidelity replicas of real-world apps for training llms and vlms.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,100:5bc0be&height=2" width="100%" alt="" />
-
-### ✦ launches
+<img src="./assets/sec-armory.svg" width="100%" alt="III. The Armory" />
 
 **BYOS** · bring your own storage. a cloud drive with no storage bill: the bytes live in your own telegram account and byos keeps only the metadata, with folders, versioning, search, sharing and analytics on top of a pluggable storage layer. the favourite part: every file points at its current version, so replace and rollback are atomic, and a public link stays permanent even after the file behind it changes. telegram is the login too, with encrypted stateless tickets and rotating refresh tokens. and a bring-your-own-key ai agent with four permission tiers, searching across full-text, trigram and semantic indexes.
 <br/><sub>`typescript` · `next.js` · `fastapi` · `postgresql` &nbsp;·&nbsp; [live](https://byos-web.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/BYOS)</sub>
@@ -37,28 +35,16 @@ founding mts intern at **arcfront**, where i lead the **multi-rl vertical**.
 **Vector** · the one i founded. an ed-tech platform shipped to **400+ students**, with computer-based tests and ai mock interviews that use vector memory to give contextual feedback.
 <br/><sub>`mern` · `typescript` · `supabase` &nbsp;·&nbsp; [live](https://vector-ewgs.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/vector/tree/Vector2.0)</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,100:5bc0be&height=2" width="100%" alt="" />
-
-### ✦ flight record
+<img src="./assets/sec-conquests.svg" width="100%" alt="IV. Conquests" />
 
 **top 100** · meta pytorch openenv hackathon &nbsp;&nbsp;|&nbsp;&nbsp; **3★** · codechef, max rating 1649 &nbsp;&nbsp;|&nbsp;&nbsp; **finalist** · shaastra programming contest, iit madras
 
-### ✦ payload
-
-`python` `typescript` `javascript` `go` `java` `c++` `sql` `react` `next.js` `node.js` `express` `fastapi` `socket.io` `webrtc` `postgresql` `mysql` `mongodb` `redis` `supabase` `pytorch` `docker` `kubernetes` `terraform` `aws` `linux`
+<img src="./assets/sec-arsenal.svg" width="100%" alt="V. The Arsenal" />
 
 <div align="center">
-<pre>
-        *        .
-   .        _____      *
-         ,-'     '-.
-  ~~~~~~(     o     )~~~~~~
-         '-._____.-'
-    *          .        .
-</pre>
-
-*if your agent found a way to cheat, i want to hear about it.*
-
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,react,nextjs,nodejs,express,fastapi,postgres,mysql,mongodb,redis,supabase,pytorch,docker,kubernetes,terraform,aws,linux&perline=11&theme=dark" alt="Python, TypeScript, JavaScript, Go, Java, C++, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Supabase, PyTorch, Docker, Kubernetes, Terraform, AWS, Linux" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,50:3a506b,100:5bc0be&height=100&section=footer" width="100%" alt="footer" />
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Doom is inevitable. Reward hacking is not." />
