@@ -1,0 +1,35 @@
+name: Update profile art
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC daily
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/update-profile-art.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - name: Fetch contributions
+        working-directory: scripts
+        env:
+          # WORK_ACCOUNT is a repository secret, so that account's name stays out of the repo
+          CONTRIB_USERS: "Astro-Dude,${{ secrets.WORK_ACCOUNT }}"
+        run: python fetch_contributions.py
+      - name: Render heatmap
+        working-directory: scripts
+        run: python render_heatmap_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"

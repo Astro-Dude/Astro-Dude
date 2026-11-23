@@ -1,0 +1,5 @@
+# one-time photo prep and ASCII conversion, run locally
+-r requirements.txt
+numpy
+pillow
+opencv-python-headless
