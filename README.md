@@ -1,83 +1,91 @@
-<table>
-<tr>
-<td align="center" width="40%">
-
-<img width="300" src="./binary_me.png" alt="Shaurya Verma, rendered in binary"/>
-
-</td>
-<td width="60%" valign="middle">
+<img align="right" width="200" src="./binary_me.png" alt="Shaurya Verma, rendered in binary" />
 
 # Shaurya Verma
 
-### Member of Technical Staff @ Scaler AI Labs
+**Founding MTS Intern at Arcfront** · CS at Birla Institute of Technology · Bengaluru
 
-I build **repository-scale reinforcement-learning environments** for autonomous coding agents — curating real-world engineering tasks, authoring ground-truth patches, and writing the adversarial harnesses that keep agents honest.
+I build reinforcement-learning environments for frontier models: worlds of connected apps where an agent has to work the way a real person would, scored by graders it can't game.
 
-- Bachelors in Computer Science, **Birla Institute of Technology** *(2024 – 2028)*
+Off the keyboard: astronomy till 3 AM, Dostoevsky, and Marvel.
 
-<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" height="34"/></a>
-&nbsp;
-<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" height="34"/></a>
+<a href="https://shauryaverma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/astro-dude"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sagittariusshaurya5@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br clear="right" />
+
+## Now
+
+- Leading the **Multi-RL vertical** at Arcfront: multi-app RL worlds where agents work across several connected apps, and the **internal platform** the team uses to create, validate and ship them.
+- Built the automation behind it. One Multi-RL environment used to take one engineer **1.5 weeks**; now **three ship in a day**.
+- Before that, **repository-scale RL environments** for coding agents (real engineering tasks, ground-truth patches, adversarial rubrics that stop reward hacking) and **high-fidelity replicas of real-world apps** for training LLMs and VLMs.
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [BYOS](https://github.com/Astro-Dude/BYOS)
+**Bring Your Own Storage** · [live](https://byos-web.onrender.com/)
+
+A cloud drive whose file bytes live in your own Telegram account, with only metadata on the server. Folders, versioning, search, sharing and analytics sit on a pluggable storage layer. Public links are permanent, and the file behind one can be swapped anytime. It also has a BYOK AI agent with four permission tiers.
+
+<sub>Next.js · FastAPI · PostgreSQL</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [DOM Heist](https://chromewebstore.google.com/detail/ejljibcfeobhaehaldildmmgdokmbchc)
+**Chrome extension** · **600+ installs**
+
+Click any element on any site and get a pixel-perfect standalone HTML component, plus a compact spec an LLM can rebuild in React and Tailwind. Handles Shadow DOM, iframes and hover states. Used by **200+ developers at Arcfront**, and cuts component extraction time by up to 10x.
+
+<sub>JavaScript · Manifest V3</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Citadel](https://github.com/Astro-Dude/citadel) & [Bastion](https://github.com/Astro-Dude/bastion)
+**OpenEnv RL environments**
+
+Bastion puts an agent in charge of a live cyberattack on a corporate network, where it sees only part of the picture and its mistakes compound. Citadel builds on it with a multi-agent LLM council that governs, critiques and earns trust.
+
+<sub>Python · OpenEnv · Hugging Face Spaces</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Vector](https://github.com/Astro-Dude/vector/tree/Vector2.0)
+**Founder** · [live](https://vector-ewgs.onrender.com/)
+
+An ed-tech platform shipped to **400+ students**, with computer-based tests and an AI mock interview system that uses vector memory for contextual feedback.
+
+<sub>MERN · TypeScript · Supabase</sub>
 
 </td>
 </tr>
 </table>
 
-## Origin Story
+**Also built:** [MiniDB](https://github.com/Astro-Dude/MiniDB), a C++ relational database engine with a B+ tree, WAL recovery and an LSM-tree store · [StayDesk](https://github.com/Astro-Dude/staydesk), a hotel app shipped through Terraform, EKS, Helm and Grafana · [LatePass](https://github.com/Astro-Dude/LatePass), a one-tap PWA that sends a late-arrival email from your own Gmail · [Waves](https://github.com/Astro-Dude/Waves), an anonymous chat on hybrid P2P and WebSockets
 
-*"Sometimes you gotta run before you can walk."* — and that's pretty much how every good thing I've built began. No blueprint, no idea how it'd end, just a suit half-assembled in the cave and the stubbornness to figure out the rest mid-flight. Curiosity is my radioactive spider-bite: it's why I build, why I keep asking questions, and why I keep falling down rabbit holes that have nothing to do with each other.
+## Toolbox
 
-These days I'm a **Member of Technical Staff at Scaler AI Labs**, engineering repository-scale reinforcement learning environments for autonomous coding agents — curating real-world engineering tasks, authoring ground-truth patches, and building the adversarial harnesses that keep agents honest (no reward-hacking on my watch). Before earning the title, I was a founding SDE intern there, rebuilding entire SaaS worlds as training grounds for frontier models.
+<img src="https://skillicons.dev/icons?i=py,cpp,java,ts,go,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,supabase,docker,kubernetes,terraform,aws,linux&perline=9" alt="Python, C++, Java, TypeScript, Go, React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, Supabase, Docker, Kubernetes, Terraform, AWS, Linux" />
 
-By day I'm also a Bachelors in Computer Science student at **Birla Institute of Technology (2024–2028)** — the academy arc before the Avengers arc.
+## Recognition
 
-When the suit comes off, it's Marvel marathons, astronomy till 3 AM, and Dostoevsky novels. Talk to me and we'll end up on software, Spider-Man, black holes, or why Dostoevsky read people better than S.H.I.E.L.D. ever could.
+- **Top 100**, Meta Hackathon 2026
+- **3-star** on CodeChef, max rating 1649
+- **Finalist**, Shaastra Programming Contest, IIT Madras
 
-## The Suit-Ups
+## Activity
 
-Every hero's got a workshop. Here's what came out of mine.
+Most of my day-to-day commits land in private work repos, so this shows only part of it.
 
-**VibeExtract** — the Mark III of my toolbox. A Chrome extension now suited up by **150+ engineers at Scaler AI Labs**, cutting frontend component extraction time by up to **10x**. It clones live DOM (Shadow DOM and iframes included) into pixel-perfect, standalone components and exports to a custom LLM-friendly format and self-contained HTML. `JavaScript`
-
-**Waves** — comms that don't drop when the network does. An anonymous real-time chat built on a hybrid P2P + WebSocket architecture so it holds the line through bad signal, with CI/CD automated end to end via Render, webhooks, and CRON. `MERN` `Socket.IO` `WebRTC`
-
-**Vector** — the one I founded and flew solo. A full-stack ed-tech platform shipped to **400+ students**, with computer-based assessments and an AI-powered mock interview system running on vector memory in Supabase. `MERN + TS` `Supabase`
-
-## The Infinity Stones
-
-Every gauntlet needs its stones. Here are the ones I've collected so far.
-
-| Stone | Conquest |
-|:--|:--|
-| 🟣 **Power** | Top 100 at Meta Hackathon 2026 |
-| 🟡 **Mind** | 3-star at CodeChef *(max rating 1649)* |
-| 🔵 **Space** | Finalist at Shaastra Programming Contest, IIT Madras |
-
-Three down. The gauntlet's not full yet.
-
-## The Endgame Grind
-
-I do most of my building on my work account, **[`shauryaverma-scaler`](https://github.com/shauryaverma-scaler)** — that's where the day-to-day engineering happens. Personal experiments run on **[`Astro-Dude`](https://github.com/Astro-Dude)**.
-
-<div align="center">
-
-<img width="90%" src="https://ghchart.rshah.org/E4002B/shauryaverma-scaler" alt="contribution calendar"/>
-
-<!--
-  COMMIT STATS + STREAK (rate-limit-proof): the live third-party cards for these
-  fail randomly (GitHub rate-limits their shared servers). The reliable fix is
-  metrics.svg — a GitHub Action commits it on a schedule with commit/star/PR stats,
-  current streak, calendar and languages (private commits included), served straight
-  from the repo with no live fetch. Setup is in .github/workflows/metrics.yml.
-  After the first run, uncomment the line below (and you can drop the ghchart img):
-
-  <img width="90%" src="./metrics.svg" alt="GitHub metrics — stats, streak, calendar & languages"/>
--->
-
-</div>
-
-<div align="center">
-
-*"Part of the journey is the end."* — but I'm nowhere near the credits yet.
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/output/snake.svg" alt="Contribution graph being eaten by a snake" />
+</picture>
