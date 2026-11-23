@@ -34,15 +34,6 @@ founding mts intern at **arcfront**, where i lead the **multi-rl vertical**.
 **DOM Heist** · point at any element on any website, click, and walk away with it. you get a standalone html file that renders identically offline, plus a compact spec to hand an llm with "rebuild this in react + tailwind". shadow dom, iframes and hover states included. no build step, no npm: the zip writer and serializers are hand-rolled. **600+ installs**, and **200+ developers at arcfront** use it.
 <br/><sub>`javascript` · `manifest v3` &nbsp;·&nbsp; [chrome web store](https://chromewebstore.google.com/detail/ejljibcfeobhaehaldildmmgdokmbchc) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/VibeExtract)</sub>
 
-**Citadel** · security incident response run by two llm agents keeping each other honest. a commander proposes actions, an oversight agent approves, revises or vetoes, and writes a lesson both of them read in every future episode. both trained with grpo on qwen2.5-3b. grew out of **bastion**, a single agent fighting a live cyberattack with half the picture. placed **top 100** at the meta pytorch openenv hackathon, built with [@dobbydobap](https://github.com/dobbydobap).
-<br/><sub>`python` · `pytorch` · `grpo` · `docker` &nbsp;·&nbsp; [demo](https://huggingface.co/spaces/Astro-Dude/citadel) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/citadel)</sub>
-
-**MiniDB** · a relational database engine from scratch. pages and a buffer pool, a b+ tree index, a sql parser, volcano-style execution, a cost-based optimizer, strict two-phase locking with deadlock detection, write-ahead logging with crash recovery, and an lsm-tree storage engine on top. team capstone, every layer hand-built.
-<br/><sub>`c++17` &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/MiniDB)</sub>
-
-**StayDesk** · a hotel front-desk app where the real product is the road to production. github actions, trivy scans, images on ghcr, terraform-provisioned eks, helm releases, pods that autoscale on cpu, and prometheus with grafana keeping watch.
-<br/><sub>`react` · `fastapi` · `postgresql` · `terraform` · `kubernetes` · `aws` &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/staydesk)</sub>
-
 **Vector** · the one i founded. an ed-tech platform shipped to **400+ students**, with computer-based tests and ai mock interviews that use vector memory to give contextual feedback.
 <br/><sub>`mern` · `typescript` · `supabase` &nbsp;·&nbsp; [live](https://vector-ewgs.onrender.com/) &nbsp;·&nbsp; [source](https://github.com/Astro-Dude/vector/tree/Vector2.0)</sub>
 
