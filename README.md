@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/header-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/header-light.svg" width="100%" alt="Shaurya Verma. Founding MTS Intern at Arcfront, Bengaluru. I build the worlds AI agents learn in." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-header-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-header-light.svg" width="100%" alt="Shaurya Verma. Founding MTS Intern at Arcfront, Bengaluru. I build the worlds AI agents learn in." />
 </picture>
 
 <p align="center">
@@ -14,8 +14,8 @@ My work is reinforcement-learning environments: worlds where a model has to do r
 Off the clock it's astronomy, usually past 3 am, and Dostoevsky, who understood people better than any eval I've written.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/now-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/now-light.svg" width="100%" alt="Now" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-now-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-now-light.svg" width="100%" alt="Now" />
 </picture>
 
 I'm a founding MTS intern at **Arcfront**, where I lead the **Multi-RL** vertical.
@@ -25,8 +25,8 @@ I'm a founding MTS intern at **Arcfront**, where I lead the **Multi-RL** vertica
 - **Before that.** Repository-scale coding environments built from real engineering tasks, with ground-truth patches and adversarial rubrics that catch reward hacking, plus high-fidelity replicas of real-world apps for training LLMs and VLMs.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/work-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/work-light.svg" width="100%" alt="Selected work" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-work-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-work-light.svg" width="100%" alt="Selected work" />
 </picture>
 
 **BYOS** &nbsp;<sub>Bring Your Own Storage</sub>
@@ -48,19 +48,10 @@ An ed-tech platform shipped to **400+ students**, with computer-based tests and 
 <sub>MERN · TypeScript · Supabase &nbsp;—&nbsp; [Live](https://vector-ewgs.onrender.com/) · [Source](https://github.com/Astro-Dude/vector/tree/Vector2.0)</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/recognition-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/recognition-light.svg" width="100%" alt="Recognition" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-recognition-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/lh-recognition-light.svg" width="100%" alt="Recognition" />
 </picture>
 
 - **Top 100**, Meta PyTorch OpenEnv Hackathon
 - **3★ on CodeChef**, max rating 1649
 - **Finalist**, Shaastra Programming Contest, IIT Madras
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/toolkit-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Astro-Dude/Astro-Dude/main/assets/toolkit-light.svg" width="100%" alt="Toolkit" />
-</picture>
-
-<sub>**Languages** &nbsp; Python · TypeScript · JavaScript · Go · Java · C++ · SQL</sub><br/>
-<sub>**Frameworks** &nbsp; React · Next.js · Node.js · Express · FastAPI · Socket.IO · WebRTC · PyTorch</sub><br/>
-<sub>**Data & infra** &nbsp; PostgreSQL · MySQL · MongoDB · Redis · Supabase · Docker · Kubernetes · Terraform · AWS · Linux</sub>
